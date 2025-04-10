@@ -1,3 +1,0 @@
-# ESG_Analytics
-
-ESG ratings play a critical role in evaluating corporate sustainability efforts. However, discrepancies between disclosures and actual performance, known as ESG Decoupling, raise concerns about rating credibility. The study investigates the extent of Decoupling across different Chinese regions and examines whether certain areas exhibit greater divergence. Additionally, the research explores how the media portrays companies with significant Decoupling. By combining three datasets - Bloomberg ESG scores, Independent ESG performance ratings, and News Sentiment analysis, the study aims to quantify ESG Decoupling, uncover regional patterns, and assess the media’s role in shaping ESG reputations.
